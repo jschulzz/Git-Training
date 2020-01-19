@@ -1,1 +1,1 @@
-# Git-Training
+# Git-Training NO! -John Howes
